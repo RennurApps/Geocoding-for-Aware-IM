@@ -1,5 +1,8 @@
 # Geocoding for Aware IM
 Google geocoding API for Aware IM via Python 
 
-Contact me:
-mario @ rennurapps.com
+Google Geocoding Overview
+https://developers.google.com/maps/documentation/geocoding/overview
+
+# Contact me:
+### mario @ rennurapps.com 
