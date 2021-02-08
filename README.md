@@ -5,4 +5,4 @@ Google Geocoding Overview
 https://developers.google.com/maps/documentation/geocoding/overview
 
 # Contact me:
-### mario @ rennurapps.com 
+### admin @ rennurapps.com 
